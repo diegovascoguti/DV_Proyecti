@@ -114,7 +114,7 @@ Esta es una aplicación de gestión para cuidadores de pacientes con Parkinson. 
 **Instalación y configuración**
 
 1. **Clonar el repositorio**:
-    - Ejecutar el comando: `git clone https://github.com/tu-usuario/cuidador-parkinson-app.git`
+    - Ejecutar el comando: `git clone https://github.com/diegovascoguti/DV_Proyecti.git`
     - Navegar al proyecto: `cd cuidador-parkinson-app`
 2. **Instalar dependencias del frontend**:
     - Navegar al directorio frontend: `cd frontend`
